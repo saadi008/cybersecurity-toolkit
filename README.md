@@ -36,6 +36,6 @@ pip install scapy
 ## 🚀 Download
 
 👉 Latest Release:
-https://github.com/yourusername/cybersecurity-toolkit/releases
+https://github.com/saadi008/cybersecurity-toolkit/releases/tag/v1.0
 
 Download the EXE file and run directly (Windows only).
